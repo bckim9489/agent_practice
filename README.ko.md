@@ -2,7 +2,7 @@
   🇰🇷 Korean | <a href="./README.md">🇺🇸 English</a>
 </p>
 
-# Agent Pattern Practice Lab
+# Agent Architecture Practice Lab
 
 LLM 기반 Agent Architecture의 진화 과정을 실습으로 검증한 저장소입니다.\
 ReAct 중심의 1세대 Agent부터, Workflow-Orchestrated 구조의 Post-ReAct
