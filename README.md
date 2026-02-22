@@ -2,7 +2,7 @@
   <a href="./README.ko.md">🇰🇷 Korean</a> | 🇺🇸 English
 </p>
 
-# Agent Pattern Practice Lab
+# Agent Architecture Practice Lab
 
 This repository explores the evolution of LLM-based Agent Architectures
 through hands-on experiments \
